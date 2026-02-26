@@ -24,3 +24,5 @@ To get the dataset used in this work, please visit below link:
 
 https://drive.google.com/file/d/1UhzYuK8zP107jMIWKcWn1-2r2tMyogDj/view?usp=sharing
 
+Note: This dataset is a part of PlantVillage, the source is: https://github.com/spMohanty/PlantVillage-Dataset
+
