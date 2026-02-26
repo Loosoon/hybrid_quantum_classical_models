@@ -17,3 +17,10 @@ pip install qiskit_machine_learning
 
 Note: matplotlib is for plotting all figures, and torch is for building classical neural networks and conneting them together with quantum parts,
 while qiskit and qiskit_machine_learning are for creating quantum neural networks as well as working as the quantum environment simulator.
+
+
+# Dataset Access
+To get the dataset used in this work, please visit below link:
+
+https://drive.google.com/file/d/1UhzYuK8zP107jMIWKcWn1-2r2tMyogDj/view?usp=sharing
+
