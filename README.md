@@ -2,7 +2,7 @@
 Python implementation of hybrid quantum classical models, HQResNet and HQCNN.
 
 
-# Before starting
+# Required Python libraries
 Install all the required Python libraries.
 
 pip install matplotlib
