@@ -26,3 +26,11 @@ https://drive.google.com/file/d/1UhzYuK8zP107jMIWKcWn1-2r2tMyogDj/view?usp=shari
 
 Note: This dataset is a part of PlantVillage, the source is: https://github.com/spMohanty/PlantVillage-Dataset
 
+
+# Process to run
+1) Install above Python libraries;
+2) Download above dataset and unzip it;
+3) Download .py files and add them to your Python IDE project;
+4) Change variable data_dir to the path of the dataset on your computer;
+5) Execute the Python code.
+   
