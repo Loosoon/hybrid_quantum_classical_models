@@ -27,6 +27,14 @@ https://drive.google.com/file/d/1UhzYuK8zP107jMIWKcWn1-2r2tMyogDj/view?usp=shari
 Note: This dataset is a part of PlantVillage, the source is: https://github.com/spMohanty/PlantVillage-Dataset
 
 
+# Python file instruction
+1) CNN.py is the implementation of a classical CNN model;
+2) ViT.py is the code for a Vision Transformer;
+3) ResNet152.py shows the code for a ResNet-152 model;
+4) HQCNN is the implementation of the hybrid Quantum Convolutional Neural Network model;
+5) HQResNet presents the proposed hybrid quantum classical neural network architecture based on ResNet-152. 
+
+
 # Process to run
 1) Install above Python libraries;
 2) Download above dataset and unzip it;
